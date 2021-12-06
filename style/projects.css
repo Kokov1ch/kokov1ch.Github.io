@@ -53,6 +53,7 @@ body{
 .navbar:hover{
     transition: 0.5s;
     color: #e54545;
+    cursor: pointer;
 }
 .grid{
     position: absolute;
@@ -62,6 +63,7 @@ body{
     width: 623px;
     height: 212px;
     background-image: linear-gradient(118deg, #2d363d -20%, #1f1f2c 111%);
+    cursor: pointer;
 }
 #mole{
     position: absolute;
